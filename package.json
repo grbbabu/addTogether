@@ -1,0 +1,16 @@
+{
+  "name": "addtogether",
+  "version": "1.0.0",
+  "description": "adds two given numbers together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "add",
+    "numbers"
+  ],
+  "author": "Ramesh babu Gopalakrishnan",
+  "license": "MIT"
+}
